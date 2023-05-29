@@ -1,0 +1,13 @@
+body {
+    font-family: Garamond, serif;
+    font-weight: 800;
+    color: pink;
+    background-color: darkgoldenrod;
+    text-align: center;
+}
+
+.link {
+    color:lightgreen;
+    font-weight: 500;
+    text-align: center;
+}
