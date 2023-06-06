@@ -20,3 +20,12 @@ li {
     font-weight: 300;
     text-align: left;
 }
+
+.temp {
+    color:darkorchid;
+}
+
+img {
+    height: auto;
+    width: 700px;
+}
